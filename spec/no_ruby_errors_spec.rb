@@ -34,4 +34,4 @@ end
         load './lib/a_division_by_zero_error.rb'
       }.to_not raise_error
 
-  end-of-input  
+  end 
