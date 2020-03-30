@@ -1,3 +1,3 @@
-1 + 1
+"I am learning."
 
-1 + 2
+"I am still learning."
